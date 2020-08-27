@@ -1,7 +1,6 @@
 # COVID-19
 This is a website about corona and how its spreading and how we can prevent it.
 
-      <body>
 	        <h1>COVID-19 [2020]</h1>
 			
              <p>Current evidence suggests that COVID-19 spreads between people through direct,
